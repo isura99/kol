@@ -1,0 +1,61 @@
+body
+{
+    background: url(./joystick\ seconed.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+h1
+{
+font-size: 50px;
+color: crimson;
+font-family: 'Roboto Mono', monospace;
+-webkit-text-stroke: 0.5px black; /* width and color */
+margin-top:400px;
+
+
+}
+
+.btn-xl
+{
+padding: 10px;
+margin-bottom:300px;
+
+}
+
+.btn{
+
+font-weight: bold;
+border-radius: 50px;
+text-transform: uppercase;
+
+
+}
+.btn-primary
+{
+
+background-color: #F8D210;
+border: #F8D210;
+
+
+}
+.btn-primary:hover
+{
+background-color: teal;
+border-width: 3px;
+border: teal;
+transform: scale(1.1)
+
+}
+hr
+{
+border-width: 10px;
+border-color: #F8D210;
+max-width: 150px;
+margin-top:75px;
+
+
+
+}
